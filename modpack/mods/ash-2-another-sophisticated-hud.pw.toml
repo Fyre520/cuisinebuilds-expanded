@@ -1,0 +1,13 @@
+name = "ASH 2 - Another Sophisticated HUD"
+filename = "ash2-1.6.0+mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qd0V4JeA/versions/tYaB2rax/ash2-1.6.0%2Bmc1.21.jar"
+hash-format = "sha512"
+hash = "6816538adbe9e821997b1bea670260c502d5ccd33ee836c0ebd8fb19cfc251002a445d34919efd2934601d80378dfafd025b06355fe3ecb91eac9ba7987a6101"
+
+[update]
+[update.modrinth]
+mod-id = "qd0V4JeA"
+version = "tYaB2rax"
