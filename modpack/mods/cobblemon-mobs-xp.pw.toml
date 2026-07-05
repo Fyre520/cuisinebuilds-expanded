@@ -1,0 +1,8 @@
+name = "Cobblemon Mobs XP"
+filename = "cobblemon_mobs_xp-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Fyre520/cuisinebuilds-expanded/main/custom/cobblemon_mobs_xp-1.0.0.jar"
+hash-format = "sha256"
+hash = "97103d4a4ae4c8deee128ea35048a2de7082ed47c31f753b0a60f9ec704fcfb2"

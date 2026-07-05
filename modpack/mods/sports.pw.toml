@@ -1,0 +1,8 @@
+name = "Sports"
+filename = "sports-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Fyre520/cuisinebuilds-expanded/main/custom/sports-1.0.0.jar"
+hash-format = "sha256"
+hash = "98993f769836c1808d50438a5e35dcfa62559116ec5f03155b7aa345210f2edd"

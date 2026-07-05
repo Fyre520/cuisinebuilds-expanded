@@ -111,6 +111,11 @@ hash = "dac3735111150e6dee94f69b03ccf6c8f65e2c975421c4f730d9afc70a3f4154"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-mobs-xp.pw.toml"
+hash = "07220dbe11f9d600e68fe31f7ba38986888977abc029fdae7affa8d257bfba10"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "509af72f2ed2559bb3829ed25ea9cbd4eb19b05c0151fa558e15a9936dddf2e4"
 metafile = true
@@ -313,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "019188864eb8efd6803ba70ceb00d5a195dac16e332883a515cee1e4e15bb39f"
+metafile = true
+
+[[files]]
+file = "mods/sports.pw.toml"
+hash = "bacff0863648885c77321e67a89bae52f04dd9eec0db16198040348b90d09d21"
 metafile = true
 
 [[files]]
