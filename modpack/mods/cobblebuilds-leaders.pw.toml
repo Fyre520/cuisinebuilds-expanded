@@ -1,0 +1,13 @@
+name = "CobbleBuilds: Leaders [Cobblemon Addon]"
+filename = "cobblebuilds-leaders-0.1.2-hf.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RALBUk5i/versions/yPbDF4e8/cobblebuilds-leaders-0.1.2-hf.1.jar"
+hash-format = "sha512"
+hash = "871545a23073fddf06602efed8adbb7d44aa4ccef5e5dea0937b3c9fe320918c9b5bb530bc7ba78734fa007df24c6770b358a2bacebd312f826506dba1cc82cf"
+
+[update]
+[update.modrinth]
+mod-id = "RALBUk5i"
+version = "yPbDF4e8"

@@ -1,0 +1,13 @@
+name = "CuisineBuilds-Expanded"
+author = "Fyre520"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "88f3509fbb555b99f27003ecb5993cf7f3cec82b848a35bcf3ee5e98ed8b5a33"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.1"

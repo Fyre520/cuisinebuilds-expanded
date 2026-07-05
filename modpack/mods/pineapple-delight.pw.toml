@@ -1,0 +1,13 @@
+name = "Pineapple Delight"
+filename = "pineapple_delight-1.1.2-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8wXnuOvg/versions/NjK1qf82/pineapple_delight-1.1.2-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "b783e9725f0ad517c9594b6ad67012a992df61c3ac7232c069efdf0cf5092081769287647791a2ed93df795ba51820641f2037e18b2ae9c281f3f06f95ce131d"
+
+[update]
+[update.modrinth]
+mod-id = "8wXnuOvg"
+version = "NjK1qf82"

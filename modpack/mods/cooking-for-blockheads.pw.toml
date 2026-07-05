@@ -1,0 +1,13 @@
+name = "Cooking for Blockheads"
+filename = "cookingforblockheads-fabric-1.21.1-21.1.23.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vJnhuDde/versions/Xy78iIHu/cookingforblockheads-fabric-1.21.1-21.1.23.jar"
+hash-format = "sha512"
+hash = "d0951c00c29fae790a9e1f64b8039400d6c7a8cbd14d3bb823d6879f0e0e12828cfedf3c69604ee6b17d6fa4ec03770dc99b53b12521fcd321f4016fcf314349"
+
+[update]
+[update.modrinth]
+mod-id = "vJnhuDde"
+version = "Xy78iIHu"
