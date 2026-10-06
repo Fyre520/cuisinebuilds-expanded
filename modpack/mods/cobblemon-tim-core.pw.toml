@@ -1,6 +1,6 @@
 name = "Cobblemon Tim Core"
 filename = "timcore-fabric-1.8.1-1.33.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lVP9aUaY/versions/lYFZ3a5r/timcore-fabric-1.8.1-1.33.2.jar"
