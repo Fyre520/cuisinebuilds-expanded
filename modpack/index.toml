@@ -96,33 +96,23 @@ hash = "1242055e2a88ef87a8666128fb1e2b4ec7dd9b6e1f25ec73a702639c2d25addc"
 metafile = true
 
 [[files]]
-file = "mods/cobblecuisine-delight.pw.toml"
-hash = "9fe213dafbb17e6c00a547ef0cd7faa954a6aebba90a9fc9c8d08ef277bc9aea"
-metafile = true
-
-[[files]]
 file = "mods/cobblecuisine.pw.toml"
 hash = "0d699a408fc55d3585c0700cfd3751045ce8f9008a397d9c29b835cfc17a3a50"
 metafile = true
 
 [[files]]
-file = "mods/cobblefurnies.pw.toml"
-hash = "4ea6079e726435a8a9ecc92824c9bd2e0636495a4d73f8641e014cd5060c4d45"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "0b1740cc342248a7bf917a147d6b8e852a9253dfbcfe180f7cf50f97bf6d646e"
+hash = "18db278b07d9ce9b6c259564e29669d2077dd3799bedb58867c87c0c05698f20"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-integrations.pw.toml"
-hash = "be97750e0c69d1650c3f679c61e0a14bc70f1bc0c13b6f6ac2681575fb4110dc"
+hash = "06cadd5fcdac84ad611e8f5bcdda7169488586286a7b158800330a0bd5d8e375"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "dac3735111150e6dee94f69b03ccf6c8f65e2c975421c4f730d9afc70a3f4154"
+hash = "ee057daa85d289dc2a860fcb7108d19d4b355235348498de63892daa262ec277"
 metafile = true
 
 [[files]]
@@ -132,27 +122,27 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "509af72f2ed2559bb3829ed25ea9cbd4eb19b05c0151fa558e15a9936dddf2e4"
+hash = "7169fd779cd3abbcf4e5bdb0405d9d2dbc3e3ebc3f9de84547c5f52603fc833b"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "e378bd40ce2ea340db4c5feadf970a74faf0cfa957936d64d1ab01c2f29a78a0"
+hash = "ab5d9564cc556d4fe43caabfe76dda43ad0776c27e443fa93927768791024e55"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
+hash = "4ee82c782d240cf3bce3c939203ddc4f331e80c1f8e499208370f53bbc9ba6f3"
 metafile = true
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"
-hash = "1dbd7df0eee4b1e149173ca7b28fe5ee636f36e0295ce599e43a301ad1accee4"
+hash = "7ed33902d60afc07c11283bdc16c47b3a2eb6fb589b61f9c924f6973c8d11af7"
 metafile = true
 
 [[files]]
 file = "mods/cobbreeding.pw.toml"
-hash = "e1f7a7bc656fb2af171219849b67b26d496881ac5a4405573a122ad344441261"
+hash = "3854c4dfa29acdbd3377a28cd35d3f4408bf2730d42f4f937b2ddeaaff0a1c00"
 metafile = true
 
 [[files]]
@@ -277,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-monuments.pw.toml"
-hash = "fd7bc3ad7f516c6f2cec2f4dcb64ea0e2137bf19d94f0a1baa91ecf2651b8686"
+hash = "58fa7324c09325fd82404a9ec7d17fa65a78411dba9e110fddbdb395c1c14b5a"
 metafile = true
 
 [[files]]
@@ -353,6 +343,16 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
+metafile = true
+
+[[files]]
+file = "mods/rctapi.pw.toml"
+hash = "d93776295991e74e5d86b63ea9cbed68ea2f076a619f3afecff51484827760ce"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "321b6bb2cb567a6c7750ddd44c293a87bcc3e756df63cf6dba44d0c401b8bc8d"
 metafile = true
 
 [[files]]

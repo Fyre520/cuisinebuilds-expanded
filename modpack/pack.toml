@@ -1,12 +1,12 @@
 name = "CuisineBuilds-Expanded"
 author = "Fyre520"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b658092584990a2016b7a3e87ca6508bce5ee305f9f1d17fab28ecc6b4ae424b"
+hash = "43e370ac607273d8e8aca2ef1e8a455faa7020ab77b72f2dc32ba24834eb179c"
 
 [versions]
 fabric = "0.19.3"
