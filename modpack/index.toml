@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblecuisine.pw.toml"
-hash = "0d699a408fc55d3585c0700cfd3751045ce8f9008a397d9c29b835cfc17a3a50"
+hash = "f2340a0b4684342a054fb8a380093d8cac4250eda737fcb86ea2993753660c55"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "18db278b07d9ce9b6c259564e29669d2077dd3799bedb58867c87c0c05698f20"
+hash = "6355a0256233330a059d3ebcf5880f96b0ed24b358263b0d2ad23725e9d709c6"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "ee057daa85d289dc2a860fcb7108d19d4b355235348498de63892daa262ec277"
+hash = "fff31a4e1b8891e2d654b3be08a85a8c09083b0203964c1aebb656b8371855fb"
 metafile = true
 
 [[files]]
@@ -127,22 +127,22 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "2f0ad24b30bf511025f8adfe3e3db5b95823e7a35239e43c62090af5cda04f2c"
+hash = "3ac88c802657adcdc183cdd20b651ab9e3d14c8a8f4094e83133d0966f06fc32"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "734d47a5b2e5745c2eb1259daeb30001b6729014c5ecc234f868e6fa720eab10"
+hash = "ae7e1c76ffda4a7e1a081a62adb26fcfdfd3ce4fe65f12e13b330406aed05ec5"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "4ee82c782d240cf3bce3c939203ddc4f331e80c1f8e499208370f53bbc9ba6f3"
+hash = "7b456ba44d7ffde560f6a98edb9012fe17a8e47a74ff3701ec9026c07d5b2c62"
 metafile = true
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"
-hash = "7ed33902d60afc07c11283bdc16c47b3a2eb6fb589b61f9c924f6973c8d11af7"
+hash = "c37496d86633ac9f9ce06d93ead162271b89b4334c90881f66820f77a3edd66c"
 metafile = true
 
 [[files]]
@@ -373,11 +373,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "cf11a6410ad4097983f806684ac343085053eca1d4106f2b45d75147ae4b5f94"
-metafile = true
-
-[[files]]
-file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
-hash = "27f2a11921312246d216d0c0c021f9c2602e5a06fb17ba6f8c12ee8542d8826a"
 metafile = true
 
 [[files]]
