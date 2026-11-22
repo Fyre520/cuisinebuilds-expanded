@@ -11,6 +11,11 @@ hash = "2f361347af09fb26c43a336756c93fb2a07f812eb38aaafa0d72a5f3c199609e"
 metafile = true
 
 [[files]]
+file = "mods/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "e076bf51bc6dc4ddc81efcaae6562146e24d2f9a5e11c3d097bbc210a6db40c9"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "bc5bb9c17c071be6f2abb8f678a1f4f82252971070c8f9b2249169558999dc64"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mobs-xp.pw.toml"
 hash = "07220dbe11f9d600e68fe31f7ba38986888977abc029fdae7affa8d257bfba10"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokemon-badges.pw.toml"
+hash = "f9fca804b47d62948dc79c800723fa4e2e8d114171af6c19c901a59b99fbb073"
 metafile = true
 
 [[files]]
@@ -298,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+metafile = true
+
+[[files]]
+file = "mods/more-radical-trainers.pw.toml"
+hash = "070cd04c1d52b913c95837f3cdfd4cb2781cc5528389dd5c23efc86935f92f5f"
 metafile = true
 
 [[files]]
